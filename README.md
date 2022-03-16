@@ -7,5 +7,5 @@ I'm a informatics engineering student. My passion is technology and learn everyd
 - 🌱 I’m currently learning Web Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jhonatancuevamendoza//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jhonatancuevamendoza//)  
 

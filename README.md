@@ -3,9 +3,6 @@
 
 I'm a informatics engineering student. My passion is technology and learn everyday something new.
 
-- 🔭 I’m currently working on Software factory 
-- 🌱 I’m currently learning Web Development 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jhonatancuevamendoza//)  
 
